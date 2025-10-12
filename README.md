@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am bins, slowly switching from JS to TS.
+I am bins, JS => TS
 
 
 

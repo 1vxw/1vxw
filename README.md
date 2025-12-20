@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am bins, JS => TS
+# About Me:
+i am bins, TS < JS
 
 
 

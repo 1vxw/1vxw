@@ -1,6 +1,6 @@
 # About Me:
 i am bins, TS < JS
-
+ihatephp
 
 
 ##  Socials:

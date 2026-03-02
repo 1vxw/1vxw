@@ -1,5 +1,5 @@
 # About Me:
-i am bins, TS < JS
+i am bins,
 ihatephp
 
 

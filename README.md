@@ -13,7 +13,7 @@ Please contact me at pradasvince@gmail.com
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cbuazozzjwmuspxd6roadhyu5i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 # Repo Analytics 
-![Repo Traffic Stats]()
+![Repo Traffic Stats](reponalytics.svg)
 
 ##  Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Vince.6910) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VincePradas) 

@@ -2,7 +2,8 @@
 i am bins,
 ihatephp
 
-Certain projects are confidential under client NDAs and may be shared for private review upon request and with client approval. Please contact me at pradasvince@gmail.com
+Certain projects are confidential (set to private) under client NDAs and may be shared for private review upon request and with client approval.
+Please contact me at pradasvince@gmail.com
 
 ##  Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Vince.6910) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VincePradas) 

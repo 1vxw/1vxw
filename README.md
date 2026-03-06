@@ -12,7 +12,7 @@ Please contact me at pradasvince@gmail.com
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31cbuazozzjwmuspxd6roadhyu5i" alt="Data Card for Spotify">
 </a> -->
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cbuazozzjwmuspxd6roadhyu5i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cbuazozzjwmuspxd6roadhyu5i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31cbuazozzjwmuspxd6roadhyu5i&redirect=true)
 
 ## Repo Analytics 
 ![Repo Traffic Stats](reponalytics.svg)

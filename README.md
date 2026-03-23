@@ -10,7 +10,7 @@ Please contact me at pradasvince@gmail.com
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cbuazozzjwmuspxd6roadhyu5i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31cbuazozzjwmuspxd6roadhyu5i&redirect=true)
 
 ## 
-![Repo Traffic Stats](reponalytics.svg)
+![Repo Traffic Stats](repo_traffic_chart.svg)
 
 ##
 [![Vince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1vxw&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
